@@ -1,0 +1,12 @@
+C:\Users\giang\Desktop\NguyenHoangGiang_2280600758\Lab3Layer\Lab3Layer.DAL\bin\Debug\Lab3Layer.DAL.dll.config
+C:\Users\giang\Desktop\NguyenHoangGiang_2280600758\Lab3Layer\Lab3Layer.DAL\bin\Debug\Lab3Layer.DAL.dll
+C:\Users\giang\Desktop\NguyenHoangGiang_2280600758\Lab3Layer\Lab3Layer.DAL\bin\Debug\Lab3Layer.DAL.pdb
+C:\Users\giang\Desktop\NguyenHoangGiang_2280600758\Lab3Layer\Lab3Layer.DAL\bin\Debug\EntityFramework.dll
+C:\Users\giang\Desktop\NguyenHoangGiang_2280600758\Lab3Layer\Lab3Layer.DAL\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\giang\Desktop\NguyenHoangGiang_2280600758\Lab3Layer\Lab3Layer.DAL\bin\Debug\EntityFramework.xml
+C:\Users\giang\Desktop\NguyenHoangGiang_2280600758\Lab3Layer\Lab3Layer.DAL\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\giang\Desktop\NguyenHoangGiang_2280600758\Lab3Layer\Lab3Layer.DAL\obj\Debug\Lab3Layer.DAL.csproj.AssemblyReference.cache
+C:\Users\giang\Desktop\NguyenHoangGiang_2280600758\Lab3Layer\Lab3Layer.DAL\obj\Debug\Lab3Layer.DAL.csproj.CoreCompileInputs.cache
+C:\Users\giang\Desktop\NguyenHoangGiang_2280600758\Lab3Layer\Lab3Layer.DAL\obj\Debug\Lab3Laye.9FE54347.Up2Date
+C:\Users\giang\Desktop\NguyenHoangGiang_2280600758\Lab3Layer\Lab3Layer.DAL\obj\Debug\Lab3Layer.DAL.dll
+C:\Users\giang\Desktop\NguyenHoangGiang_2280600758\Lab3Layer\Lab3Layer.DAL\obj\Debug\Lab3Layer.DAL.pdb
