@@ -1,0 +1,15 @@
+C:\Users\giang\Desktop\NguyenHoangGiang_2280600758\Lab3Layer\Lab3Layer.BUS\bin\Debug\Lab3Layer.BUS.dll.config
+C:\Users\giang\Desktop\NguyenHoangGiang_2280600758\Lab3Layer\Lab3Layer.BUS\bin\Debug\Lab3Layer.BUS.dll
+C:\Users\giang\Desktop\NguyenHoangGiang_2280600758\Lab3Layer\Lab3Layer.BUS\bin\Debug\Lab3Layer.BUS.pdb
+C:\Users\giang\Desktop\NguyenHoangGiang_2280600758\Lab3Layer\Lab3Layer.BUS\bin\Debug\EntityFramework.dll
+C:\Users\giang\Desktop\NguyenHoangGiang_2280600758\Lab3Layer\Lab3Layer.BUS\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\giang\Desktop\NguyenHoangGiang_2280600758\Lab3Layer\Lab3Layer.BUS\bin\Debug\Lab3Layer.DAL.dll
+C:\Users\giang\Desktop\NguyenHoangGiang_2280600758\Lab3Layer\Lab3Layer.BUS\bin\Debug\Lab3Layer.DAL.pdb
+C:\Users\giang\Desktop\NguyenHoangGiang_2280600758\Lab3Layer\Lab3Layer.BUS\bin\Debug\Lab3Layer.DAL.dll.config
+C:\Users\giang\Desktop\NguyenHoangGiang_2280600758\Lab3Layer\Lab3Layer.BUS\bin\Debug\EntityFramework.xml
+C:\Users\giang\Desktop\NguyenHoangGiang_2280600758\Lab3Layer\Lab3Layer.BUS\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\giang\Desktop\NguyenHoangGiang_2280600758\Lab3Layer\Lab3Layer.BUS\obj\Debug\Lab3Layer.BUS.csproj.AssemblyReference.cache
+C:\Users\giang\Desktop\NguyenHoangGiang_2280600758\Lab3Layer\Lab3Layer.BUS\obj\Debug\Lab3Layer.BUS.csproj.CoreCompileInputs.cache
+C:\Users\giang\Desktop\NguyenHoangGiang_2280600758\Lab3Layer\Lab3Layer.BUS\obj\Debug\Lab3Laye.80C00F76.Up2Date
+C:\Users\giang\Desktop\NguyenHoangGiang_2280600758\Lab3Layer\Lab3Layer.BUS\obj\Debug\Lab3Layer.BUS.dll
+C:\Users\giang\Desktop\NguyenHoangGiang_2280600758\Lab3Layer\Lab3Layer.BUS\obj\Debug\Lab3Layer.BUS.pdb
